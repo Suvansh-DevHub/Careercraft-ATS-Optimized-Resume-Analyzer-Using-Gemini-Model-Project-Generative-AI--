@@ -1,0 +1,27 @@
+The DevOps Engineer will create, maintain, and automate DevOps pipelines; continuously improve automated build, test and deployment workflows. They will support/secure production and development systems in a constantly evolving environment of integrated systems.
+
+Develop solution for automated deployment and CI/CD pipelines; manage the LLE Environment Design and develop deployment kits for e-commerce platforms Support and continuous enhancement of software development infrastructure: continuous integration and delivery, databases, cloud services, systems monitoring, etc.
+
+Consulting of developers in infrastructure configuration issues (OS performance optimization, network bottlenecks, storage configuration, etc.).
+
+Collaboration with distributed team of developers, testers, analysts
+
+ 
+
+Must Haves:
+
+ 
+
+· 6+ years exp in creating, maintaining, and automating DevOps pipelines
+
+· Native Mobile App Platform knowledge & experience – Backend API’s supporting mobile apps.
+
+· Experience with Node.js
+
+· Azure VMs experience
+
+· DevOps and CICD pipelines (GitHub Actions, Jenkins) – Developing solutions for automated deployment.
+
+· Integrating Automation & Security Scan experience
+
+· Experience in Integration with Cloud Device Farms (Browserstack, LambdaTest)
